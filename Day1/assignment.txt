@@ -1,0 +1,33 @@
+Assignment 1:
+
+Q 1. What is your understanding of Blockchain?
+
+In short i can put blockchain as a decentralized records of data which are timestamped on the block , which are immutable . 
+the records are stored in blocks and these blocks are immutable and are connected as a chain with the information in it encrypted . 
+
+
+Q 2. What is the core problem Blockchain trying to solve?
+Blockchain is trying to solve the following issues:
+- Removal of Middle man
+- Authenticity of ownership
+- Transperancy between two opposite parties
+- Removing centralized authority, etc.
+
+Q 3. What are the few features which Blockchain will give you?
+
+- Immutability
+- Transparency
+- Decentralized
+- Secured
+- Authenticity
+
+Q 4. What all things does a Block Contain?
+
+- Current Block number
+- Data/Information
+- Signature of the Previous block
+- Mining key
+
+Q 5. How is the verifiability of Blockchain is been attained?
+- In typical real time Blockchain networks, the verifiablity is achieved by the validation of a data which is newly entered into the network. 
+  This validation is done by the remaining nodes of the network , thus in the network if more than 51% of the nodes validate and verify then the verifiability is achieved .
